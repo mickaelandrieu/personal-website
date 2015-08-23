@@ -1,0 +1,42 @@
+# Site settings
+title: Mickaël Andrieu
+email: andrieu.travail@gmail.com
+url: https://mickael-andrieu.fr
+description: "Ingénieur web, formateur, évangéliste technique je mets mes compétences à votre service"
+skills: "Ingénieur Web - Formateur - Evangéliste technique"
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Copyrights
+  location: Me trouver
+  social: Me suivre
+  credits: Crédits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/mickael_andrieu
+  - title: github
+    url: http://github.com/mickaelandrieu
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: rue de Colombes
+  - line: Asnières/Seine, France
+
+# Credits content
+credits: 'Basé sur le thème Freelancer, thème gratuit et open source disponible <a href="http://startbootstrap.com">Ici</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
